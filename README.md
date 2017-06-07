@@ -16,6 +16,4 @@ No. Absen : 30<br>
 ![Screenshot](https://github.com/salsasavira/HealthyMe/blob/master/f.PNG)
 ![Screenshot](https://github.com/salsasavira/HealthyMe/blob/master/g.PNG)
 
-#APK
 
-https://drive.google.com/file/d/0B1SC-tgB9enJb09icTV6dWh2TkU/view?usp=sharing
